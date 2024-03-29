@@ -1,0 +1,44 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.container{
+    background-color: chocolate;
+    height: 100px;
+}
+
+.container-fluid
+{
+    /*background-color:fuchsia;
+    height: 100px;*/
+}
+.row
+{
+    margin: 10px;;
+}
+.col{
+    /*background-color: darkorange;*/
+    margin: 5px;
+}
+  
+.navbar-toggler{
+    background-color: blue;
+}
+.anton-regular{
+    background-color: aqua;
+    text-align: center;
+}
+.shadows-into {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+  }
